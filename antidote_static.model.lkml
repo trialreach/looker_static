@@ -10,4 +10,6 @@ datagroup: antidote_static_default_datagroup {
 
 persist_with: antidote_static_default_datagroup
 
-explore: looker_image_assets {}
+explore: looker_image_assets {
+  label: "Images"
+}
